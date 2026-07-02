@@ -32,7 +32,7 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 8px;
     max-width: 900px;
-    margin-left: 60px;
+    margin-left: 90px;
 }
 .card1{
     height: 25vh;
