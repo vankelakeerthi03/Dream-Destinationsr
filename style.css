@@ -2,7 +2,7 @@
 .main-container {
     background-image: url("https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/niat_modern_responsive_web_design/niat_coding_questions/css_grid_1_bg_1.jpg");
     min-height: 70vh;
-    width: 150%;
+    width: 100%;
     background-size: cover;
     padding: 20px;
 }
@@ -34,8 +34,7 @@
 .card1{
     height: 25vh;
     background-color: white;
-    border-radius: 5px;
-    
+    border-radius: 5px;   
 }
 .h1{
     color: #333333;
